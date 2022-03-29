@@ -1,6 +1,7 @@
+Cabal-Version: 2.2
 Name: Chart-tests
 Version: 1.9.3
-License: BSD3
+License: BSD-3-Clause
 License-file: LICENSE
 Copyright: Tim Docker, 2006-2014
 Author: Tim Docker <tim@dockerz.net>
@@ -9,7 +10,6 @@ Homepage: https://github.com/timbod7/haskell-chart/wiki
 Synopsis: Tests of the Charts library.
 Description: Tests of the Charts library.
 Category: Graphics
-Cabal-Version: >= 1.10
 Build-Type: Simple
 
 

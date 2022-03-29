@@ -1,6 +1,7 @@
+Cabal-Version: 2.2
 Name: Chart
 Version: 1.9.4
-License: BSD3
+License: BSD-3-Clause
 License-file: LICENSE
 Copyright: Tim Docker, 2006-2014
 Author: Tim Docker <tim@dockerz.net>
@@ -14,7 +15,6 @@ Description: A library for generating 2D Charts and Plots, with backends provide
 
              Documentation: https://github.com/timbod7/haskell-chart/wiki.
 Category: Graphics
-Cabal-Version: 1.18
 Build-Type: Simple
 
 library

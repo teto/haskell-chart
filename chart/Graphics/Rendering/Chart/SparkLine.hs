@@ -2,7 +2,7 @@
 -- |
 -- Module      : Graphics.Rendering.Chart.Sparkline
 -- Copyright   : (c) Hitesh Jasani, 2008, Malcolm Wallace 2011, Tim Docker 2014
--- License     : BSD3
+-- License     : BSD-3-Clause
 --
 -- Sparklines are mini graphs inspired by Edward Tufte; see
 -- <http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR>

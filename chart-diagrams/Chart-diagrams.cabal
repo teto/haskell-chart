@@ -1,6 +1,7 @@
+Cabal-Version: 2.2
 Name: Chart-diagrams
-Version: 1.9.4
-License: BSD3
+Version: 1.9.3
+License: BSD-3-Clause
 License-file: LICENSE
 Copyright: Jan Bracker, 2006-2014
 Author: Jan Bracker <jan.bracker@googlemail.com>
@@ -9,7 +10,6 @@ Homepage: https://github.com/timbod7/haskell-chart/wiki
 Synopsis: Diagrams backend for Charts.
 Description: Diagrams backend for Charts.
 Category: Graphics
-Cabal-Version: 1.18
 Build-Type: Simple
 
 data-files: fonts/LinLibertine_R.svg

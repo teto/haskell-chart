@@ -1,6 +1,7 @@
+Cabal-Version: 2.2
 Name: Chart-gtk
 Version: 1.9.3
-License: BSD3
+License: BSD-3-Clause
 License-file: LICENSE
 Copyright: Tim Docker, 2006-2014
 Author: Tim Docker <tim@dockerz.net>
@@ -9,7 +10,6 @@ Homepage: https://github.com/timbod7/haskell-chart/wiki
 Synopsis: Utility functions for using the chart library with GTK
 Description: Utility functions for using the chart library with GTK
 Category: Graphics
-Cabal-Version: >= 1.8
 Build-Type: Simple
 
 library
